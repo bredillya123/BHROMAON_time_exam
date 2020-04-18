@@ -1,0 +1,15 @@
+// Base
+@import "base/_variables";
+@import "base/_mixins";
+@import "base/_reset";
+
+// Layout
+@import "layout/_general";
+
+// Page styles
+@import "modules/_header";
+@import "modules/_choose";
+@import "modules/_dots";
+@import "modules/_spain";
+@import "modules/_travel";
+@import "modules/_footer";
